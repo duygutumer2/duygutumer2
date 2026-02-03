@@ -9,7 +9,7 @@
 
 ---
 
-### 📚 Publications
+### Publications
 **Multilingual Domain Adaptation for Speech Recognition Using LLMs**
 *E. N. Ulu, E. Derya, **D. Tümer**, B. Demirel, A. Karamanlıoğlu*
 * **Conference:** TSD 2025 (Springer LNCS, vol. 16029)
@@ -17,25 +17,8 @@
 
 ---
 
-### 🛠️ Languages and Tools
-<p align="left">
-  <a href="https://www.python.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.java.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a>
-  <a href="https://isocpp.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=cpp" alt="c++" width="40" height="40"/> </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a>
-  
-  <a href="https://pytorch.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://opencv.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a>
-  
-  <a href="https://spring.io/" target="_blank"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a>
-  <a href="https://kafka.apache.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a>
-  
-  <a href="https://reactnative.dev/" target="_blank"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a>
-  <a href="https://nodejs.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kafka" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a></p>
 
 ---
 
