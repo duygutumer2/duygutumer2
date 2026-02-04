@@ -1,6 +1,6 @@
 # Hi there, I'm Duygu! 👋
 
-### 🎓 Computer Engineering Student @ TOBB ETU
+### Computer Engineering Student @ TOBB ETU
 
 - 🔭 I'm currently working on **Image-to-Math (Img2LaTeX) models** and my **Senior Capstone Project (NutriGame).**
 - 📄 I co-authored a paper at **TSD 2025** on Speech Recognition using LLMs.
@@ -13,7 +13,7 @@
 **Multilingual Domain Adaptation for Speech Recognition Using LLMs**
 *E. N. Ulu, E. Derya, **D. Tümer**, B. Demirel, A. Karamanlıoğlu*
 * **Conference:** TSD 2025 (Springer LNCS, vol. 16029)
-* [🔗 Read the Paper](https://link.springer.com/chapter/10.1007/978-3-032-02548-7_32)
+* [Read the Paper](https://link.springer.com/chapter/10.1007/978-3-032-02548-7_32)
 
 ---
 
