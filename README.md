@@ -1,4 +1,4 @@
-# Hi there, I'm Duygu! 👋
+<img width="421" height="345" alt="image" src="https://github.com/user-attachments/assets/b47e513d-aa96-4db0-86d7-f6af7839d506" /># Hi there, I'm Duygu! 👋
 
 ### Computer Engineering Student @ TOBB ETU
 
@@ -17,28 +17,23 @@
 
 ---
 
-<table>
-  <tr valign="top">
-    <td width="60%">
-      <h3 align="left">Languages and Tools:</h3>
-      <p align="left"> 
-        <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> 
-        <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> 
-        <a href="https://developer.mozilla.org/en-US/docs/Web/kafka" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"/> </a> 
-        <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> 
-        <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> 
-        <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> 
-        <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> 
-        <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a>
-      </p>
-    </td>
-    <td width="40%">
-      <h3 align="left">Connect with me:</h3>
-      <p align="left">
-        <a href="https://linkedin.com/in/duygu-tümer-0459b122b" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="duygu tümer" height="30" /></a>
-        <br>
-        <a href="mailto:duygutumer1993@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" height="30" style="margin-top: 5px;" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/kafka" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a>
+</p>
+
+<br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/duygu-tümer-0459b122b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="duygu tümer" height="30" /></a>
+  &nbsp;
+  <a href="mailto:duygutumer1993@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" height="30" /></a>
+</p>
